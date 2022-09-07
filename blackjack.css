@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(40, 122, 40);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+ /* background-image: url('images/blackjackbg.jpg'); */
+ /* background-size: cover;
+ background-repeat: no-repeat; */
+ 
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+  font-style: italic;
+}
+button{
+    width: 150px;
+    height: 40px;
+    background: goldenrod;
+    color:rgb(40, 122, 40);
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+
+}
